@@ -1,6 +1,8 @@
+**LaughBot**
+
 Joke Teller using an Voice API!
 
-Link -> https://siddharth774.github.io/joke-teller/
+Link -> https://siddharth774.github.io/LaughBot
 
 
 **Joke Teller using JavaScript and Voice API**
