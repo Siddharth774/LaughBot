@@ -34,7 +34,7 @@ This project is a fun and interactive joke teller application built using JavaSc
 - Modern web browser with microphone access support.
 
 **Demo:**
-A live demo of the application is available at (https://siddharth774.github.io/joke-teller/)
+A live demo of the application is available at (https://siddharth774.github.io/LaughBot)
 
 **Disclaimer:**
 
